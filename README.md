@@ -3,8 +3,7 @@
 ## Rui Almeida de Andrade!
 Desenvolvedor Web Java Jr | :alien:
 
-
-Amante de tecnologia e codificação  :purple_heart:<br>
+Amante da  Tecnologia e codificacao  :purple_heart:<br>
 
 ### Tecnologias
 ![HTML Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
